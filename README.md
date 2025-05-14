@@ -6,11 +6,13 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdul-wahab976](https://github.com/abdul-wahab976)
+- 👨‍💻 All of my projects are available at:
+- [https://github.com/abdul-wahab976](https://github.com/abdul-wahab976)
 
-- 💬 Ask me about **Data Analyst, Data Visualization**
+- 💬 Ask me about **Data Analyst**
 
-- 📫 How to reach me **aw2658109@gmail.com**
+- 📫 How to reach me:
+- **aw2658109@gmail.com**
 
 - ⚡ Fun fact **I am funny😉**
 
