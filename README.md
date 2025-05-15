@@ -5,10 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-wahab976&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-wahab976" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
-
-- 👨‍💻 All of my projects are available at:
-- [https://github.com/abdul-wahab976](https://github.com/abdul-wahab976)
-
 - 💬 Ask me about **Data Analyst**
 
 - 📫 How to reach me: **abdulwahabmaher94@gmail.com**
