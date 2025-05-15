@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Data Analyst**
 
-- 📫 How to reach me:
-- **aw2658109@gmail.com**
+- 📫 How to reach me: **abdulwahabmaher94@gmail.com**
 
 - ⚡ Fun fact **I am funny😉**
 
