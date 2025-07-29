@@ -8,29 +8,9 @@
 ---
 
 - 🌱 I’m currently learning: **Machine Learning & Deep Learning**
-- 💬 Ask me about: **Python, Data Analysis, and AI Projects**
+- 💬 Ask me about: **Python, Data Analysis, and AI Concepts**
 - 📫 How to reach me: **abdulwahabmaher94@gmail.com**
 - ⚡ Fun fact: **I'm the guy who mixes data and chai ☕**
-
----
-
-<h3>🚀 Projects</h3>
-
-- 🧠 **Connect Four AI using Game Theory**  
-  Developed a Connect Four game in Python using Pygame. Integrated Minimax Algorithm with Alpha-Beta pruning for intelligent opponent decision-making. Focused on game theory and AI strategy.  
-  <em>Technologies: Python, Pygame, NumPy</em>
-
-- 📊 **Zomato Data Analysis**  
-  Performed in-depth analysis on restaurant trends using Python libraries.  
-  <em>Technologies: Pandas, Matplotlib, Seaborn</em>
-
-- 🛒 **Shopping Trends Dashboard**  
-  Created an interactive Power BI dashboard showing consumer behavior and product popularity.  
-  <em>Technologies: Power BI, Excel</em>
-
-- 🩺 **Chest X-Ray Pneumonia Detection** *(In Progress)*  
-  Using CNNs to detect pneumonia from chest X-rays.  
-  <em>Technologies: TensorFlow, Keras</em>
 
 ---
 
@@ -44,20 +24,15 @@
 
 ---
 
-<h3>🛠️ Languages & Tools</h3>
+<h3>🛠️ My Skill Set</h3>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-</p>
+- **Programming Languages:** Python, C++, R  
+- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Excel  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Databases:** MySQL, Microsoft SQL Server  
+- **AI & ML Tools:** Scikit-learn, PyTorch (Basics), TensorFlow (Basics)  
+- **Web Scraping & Automation:** Selenium, BeautifulSoup  
+- **Others:** MATLAB, Figma, Git, CanvasJS  
 
 ---
 
