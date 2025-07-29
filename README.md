@@ -3,7 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-wahab976&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-wahab976" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abdul-wahab976&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-wahab976" />
+</p>
 
 ---
 
@@ -18,11 +20,10 @@
 
 - ✔ **Data Analysis & Visualization:** Python, R, Power BI  
 - ✔ **Python Libraries:** NumPy, Pandas, Seaborn, Matplotlib  
-- ✔ **OOP & DSA:** Strong understanding of Object-Oriented Programming and Data Structures  
-- ✔ **Data Cleaning & EDA:** Exploratory Data Analysis, Preprocessing, and Cleaning  
-- ✔ **C++ Programming:** Solid fundamentals in logic and structure  
-- ✔ **Project-Based Learning:** Experienced in applying skills to solve real-world problems  
-- ✔ **Critical Thinking:** Ability to analyze data and derive insights effectively  
+- ✔ **OOP & DSA:** Object-Oriented Programming and Data Structures  
+- ✔ **Data Cleaning & EDA:** Data Preprocessing & Exploratory Data Analysis  
+- ✔ **C++ Programming:** Programming Fundamentals  
+- ✔ **Project-Based Learning & Critical Thinking**
 
 ---
 
@@ -31,7 +32,7 @@
 - ✔ Jupyter Notebook, Google Colab  
 - ✔ Power BI, Microsoft Excel  
 - ✔ Microsoft Word, PowerPoint, Google Forms  
-- ✔ Overleaf (LaTeX) for research and documentation
+- ✔ Overleaf (LaTeX)  
 
 ---
 
@@ -48,17 +49,47 @@
 <h3>🌐 Connect with me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdul-wahab-b6699b308/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-<a href="https://www.facebook.com/share/15uqvs3p22/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" /></a>
-<a href="https://youtube.com/@theimssoficalpage-y6u?si=znqyb60is2tn3a4i" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdul-wahab-b6699b308/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+</a>
+
+<a href="https://www.facebook.com/share/15uqvs3p22/" target="blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@theimssoficalpage-y6u?si=znqyb60is2tn3a4i" target="blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/#" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/#" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@#" target="blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="mailto:abdulwahabmaher94@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+</a>
 </p>
 
 ---
 
 <h3>📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-wahab976&show_icons=true&locale=en&layout=compact" alt="abdul-wahab976" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-wahab976&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wahab976&show_icons=true&locale=en" alt="abdul-wahab976" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wahab976&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wahab976&" alt="abdul-wahab976" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wahab976&" alt="GitHub Streak" />
+</p>
