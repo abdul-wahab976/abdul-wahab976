@@ -14,6 +14,37 @@
 
 ---
 
+<h3>🛠️ My Skill Set</h3>
+
+- ✔ **Data Analysis & Visualization:** Python, R, Power BI  
+- ✔ **Python Libraries:** NumPy, Pandas, Seaborn, Matplotlib  
+- ✔ **OOP & DSA:** Strong understanding of Object-Oriented Programming and Data Structures  
+- ✔ **Data Cleaning & EDA:** Exploratory Data Analysis, Preprocessing, and Cleaning  
+- ✔ **C++ Programming:** Solid fundamentals in logic and structure  
+- ✔ **Project-Based Learning:** Experienced in applying skills to solve real-world problems  
+- ✔ **Critical Thinking:** Ability to analyze data and derive insights effectively  
+
+---
+
+<h3>🧰 Tools & Technologies</h3>
+
+- ✔ Jupyter Notebook, Google Colab  
+- ✔ Power BI, Microsoft Excel  
+- ✔ Microsoft Word, PowerPoint, Google Forms  
+- ✔ Overleaf (LaTeX) for research and documentation
+
+---
+
+<h3>🏅 Achievements & Academic Progress</h3>
+
+- 🏆 **2nd Position – CodeAir Coding Competition**, Air University  
+- 🏆 **2nd Position – AirTech IQ Competition**  
+- 🎓 Strong foundation in **Python, R, Data Analytics, and Visualization**  
+- 📊 Continuously learning and applying skills to real-world **Data Science** problems  
+- ✨ Passionate about using data to make informed decisions and drive impact
+
+---
+
 <h3>🌐 Connect with me</h3>
 
 <p align="left">
@@ -21,18 +52,6 @@
 <a href="https://www.facebook.com/share/15uqvs3p22/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" /></a>
 <a href="https://youtube.com/@theimssoficalpage-y6u?si=znqyb60is2tn3a4i" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge&logoColor=white" /></a>
 </p>
-
----
-
-<h3>🛠️ My Skill Set</h3>
-
-- **Programming Languages:** Python, C++, R  
-- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib, Excel  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
-- **Databases:** MySQL, Microsoft SQL Server  
-- **AI & ML Tools:** Scikit-learn, PyTorch (Basics), TensorFlow (Basics)  
-- **Web Scraping & Automation:** Selenium, BeautifulSoup  
-- **Others:** MATLAB, Figma, Git, CanvasJS  
 
 ---
 
