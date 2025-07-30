@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
 <h3 align="center">A passionate Data Science enthusiast from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abdul-wahab976&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-wahab976" />
@@ -9,9 +9,9 @@
 
 ---
 
-- 🌱 I’m currently learning: **Machine Learning & Deep Learning**
-- 💬 Ask me about: **Python, Data Analysis, and AI Concepts**
-- 📫 How to reach me: **abdulwahabmaher94@gmail.com**
+- 🌱 I’m currently learning: **Machine Learning & Deep Learning**  
+- 💬 Ask me about: **Python, Data Analysis, and AI Concepts**  
+- 📫 How to reach me: **abdulwahabmaher94@gmail.com**  
 - ⚡ Fun fact: **I'm the guy who mixes data and chai ☕**
 
 ---
@@ -80,18 +80,41 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats & Live Graphs</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-wahab976&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<!-- Main GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-wahab976&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-wahab976&show_icons=true&locale=en" alt="GitHub Stats" />
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wahab976&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wahab976&" alt="GitHub Streak" />
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wahab976&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-wahab976&theme=radical" alt="Summary Card" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdul-wahab976&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- 3D Contribution Chart (GIF just for animation effect) -->
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" alt="3D Contribution Graph" width="600" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdul-wahab976&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -109,6 +132,3 @@
 - 📧 Email: **abdulwahabmaher94@gmail.com**  
 - 📱 Phone: **+92-3368189652**  
 - 💼 LinkedIn: [Abdul Wahab](https://www.linkedin.com/in/abdul-wahab-b6699b308/)
-
----
-
