@@ -69,8 +69,8 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="https://www.tiktok.com/@#" target="blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/abdul-wahab976" target="blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="mailto:abdulwahabmaher94@gmail.com" target="blank">
@@ -93,3 +93,22 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wahab976&" alt="GitHub Streak" />
 </p>
+
+---
+
+<h3>📈 Data Science Graph</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
+<h3>📞 Contact Information</h3>
+
+- 📧 Email: **abdulwahabmaher94@gmail.com**  
+- 📱 Phone: **+92-3368189652**  
+- 💼 LinkedIn: [Abdul Wahab](https://www.linkedin.com/in/abdul-wahab-b6699b308/)
+
+---
+
