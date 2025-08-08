@@ -140,7 +140,7 @@
 
 <h3>📞 Contact Information</h3>
 <ul>
-  <li>📧 Email: <strong>abdulwahabmaher94@gmail.com</strong></li>
+  <li>📧 Email: <strong>aw2658109@gmail.com</strong></li>
   <li>📱 Phone: <strong>+92-3368189652</strong></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/abdul-wahab-b6699b308/">Abdul Wahab</a></li>
 </ul>
