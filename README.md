@@ -18,7 +18,7 @@
   <li>🛠️ Currently working on <strong>Data Analysis & ML Prediction Projects</strong>.</li>
   <li>🤝 Open to collaborations on <strong>Data Analytics, Predictive Modeling, and AI Research</strong>.</li>
   <li>💬 Ask me about <strong>Python, Data Visualization, ML Algorithms, and Data Processing</strong>.</li>
-  <li>🎯 Fun fact: <em>Every dataset tells a story — I help uncover and present it clearly!</em> 📊</li>
+  <li>🎯 Fun fact: <em>Every dataset tells a story — I help uncover and present it clearly!</em> </li>
 </ul>
 
 ---
