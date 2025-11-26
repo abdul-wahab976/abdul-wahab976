@@ -42,8 +42,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Project%20Based%20Learning-228B22?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Critical%20Thinking-20B2AA?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agent-20B2AA?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Automation-20B2AA?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agent-20B2AA?style=for-the-badge&logo=google&logoColor=Red" />
+  <img src="https://img.shields.io/badge/AI%20Automation-20B2AA?style=for-the-badge&logo=google&logoColor=pink" />
 </p>
 
 ---
