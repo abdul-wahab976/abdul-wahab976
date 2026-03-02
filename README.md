@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6AD3F7&center=true&vCenter=true&repeat=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Wahab;Hi+%F0%9F%91%8B%2C+I'm+Abdul+Wahab;Hi+%F0%9F%91%8B%2C+I'm+Abdul+Wahab" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">A passionate Data Science enthusiast from Pakistan</h3>
+
+<!-- Animated Top Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
@@ -97,45 +103,30 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abdul-wahab976&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wahab976&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-wahab976&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-wahab976&theme=radical" alt="Summary Card" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=abdul-wahab976&theme=radical&no-frame=true&column=6" alt="GitHub Trophies" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/cde.gif" alt="3D Contribution Graph" width="600" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdul-wahab976&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdul-wahab976&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wahab976&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=abdul-wahab976&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdul-wahab976&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-wahab976&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
 <h3>📈 Data Science Graph</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 ---
@@ -146,3 +137,6 @@
   <li>📱 Phone: <strong>+92-3368189652</strong></li>
   <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/abdul-wahab-b6699b308/">Abdul Wahab</a></li>
 </ul>
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
